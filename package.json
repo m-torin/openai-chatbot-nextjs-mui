@@ -1,0 +1,48 @@
+{
+  "name": "openai-chatbot-nextjs-mui",
+  "description": "A simple chatbot using OpenAI's GPT-3 API and Next.js with Material-UI.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "ws:up": "yarn upgrade-interactive"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.12",
+    "@mui/styles": "^5.11.12",
+    "axios": "^1.3.4",
+    "clsx": "^1.2.1",
+    "next": "^13.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-syntax-highlighter": "^15.5.0"
+  },
+  "devDependencies": {
+    "@types/eslint": "^8",
+    "@types/node": "18.14.6",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "@types/react-syntax-highlighter": "^15",
+    "turbo": "1.7.0",
+    "typescript": "4.9.5"
+  },
+  "homepage": "https://github.com/m-torin/openai-chatbot-nextjs-mui",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-torin/openai-chatbot-nextjs-mui.git"
+  },
+  "author": {
+    "name": "Torin Taylor",
+    "url": "https://github.com/m-torin"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.x",
+    "yarn": ">=3.x"
+  },
+  "packageManager": "yarn@3.3.1"
+}

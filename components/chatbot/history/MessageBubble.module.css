@@ -1,0 +1,31 @@
+.message {
+  margin-bottom: 25px;
+  border-radius: 20px;
+  max-width: 80%;
+  padding: 0.5rem 0.875rem;
+  position: relative;
+  text-align: left;
+  
+  letter-spacing: 0.3px;
+  width: fit-content;
+  word-wrap: break-word;
+}
+
+.user {
+  text-align: right;
+  border-radius: 20px 20px 0 20px;
+  background-color: #248bf5;
+  color: #fff;
+  margin-left: auto;
+}
+
+.assistant {
+  border-radius: 20px 20px 20px 0;
+  background-color: #e5e5ea;
+  color: #000;
+  padding-right: 15px;
+}
+
+.message > .MuiTypography-root {
+  margin-bottom: 0.5rem;
+}
