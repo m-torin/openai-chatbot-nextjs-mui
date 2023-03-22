@@ -548,13 +548,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/eslint@npm:8.21.2":
-  version: 8.21.2
-  resolution: "@types/eslint@npm:8.21.2"
+"@types/eslint@npm:8.21.3":
+  version: 8.21.3
+  resolution: "@types/eslint@npm:8.21.3"
   dependencies:
     "@types/estree": "*"
     "@types/json-schema": "*"
-  checksum: 1a67d137898ceb0fa388bbc66a6736c56b771e0978f8b3859a53b948a8daaa959d1275b449ec38d62ecbcfd68c35008a2c8a603bce720872433258244c97fb1f
+  checksum: 8abca9f98a8f9e1bd33fe0309c183d4d41516f8d8f71f4b09ebc98758605ea6422b3ee4c8fed29ca1a6a32cdb2b9b2fc231a172f0b9fa518cc93c31758b04b4d
   languageName: node
   linkType: hard
 
@@ -1368,7 +1368,7 @@ __metadata:
     "@mui/icons-material": ^5.11.11
     "@mui/material": ^5.11.12
     "@mui/styles": ^5.11.12
-    "@types/eslint": 8.21.2
+    "@types/eslint": 8.21.3
     "@types/node": 18.15.3
     "@types/react": 18.0.28
     "@types/react-dom": 18.0.11
