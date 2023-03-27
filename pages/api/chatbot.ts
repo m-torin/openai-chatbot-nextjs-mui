@@ -100,7 +100,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<OpenAIChatCompl
 
   // Construct the request body
   const requestBody: ChatRequestBody | undefined = messages && {
-    model: 'gpt-3.5-turbo',
+    model: 'gpt-4' ?? 'gpt-3.5-turbo',
     messages,
   };
   
