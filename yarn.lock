@@ -581,10 +581,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.15.7":
-  version: 18.15.7
-  resolution: "@types/node@npm:18.15.7"
-  checksum: aa4d9e3685d06643ac8da03ba34ed55b320a5debe5606c96593689272e1963248bafad0e6a1efb2eebbfcb6edc0e6234f275dded090796cc2286c87514f762b1
+"@types/node@npm:18.15.9":
+  version: 18.15.9
+  resolution: "@types/node@npm:18.15.9"
+  checksum: 9057c9f72349aba66056d28f3178340ce0a3a60225ad44747bce436b96e296e53b091d77e5fda828cee5553497d0b908607cb59f9b3d0ba84c19578bb4683daa
   languageName: node
   linkType: hard
 
@@ -1380,7 +1380,7 @@ __metadata:
     "@mui/material": ^5.11.12
     "@mui/styles": ^5.11.12
     "@types/eslint": 8.21.3
-    "@types/node": 18.15.7
+    "@types/node": 18.15.9
     "@types/react": 18.0.29
     "@types/react-dom": 18.0.11
     "@types/react-syntax-highlighter": 15.5.6
