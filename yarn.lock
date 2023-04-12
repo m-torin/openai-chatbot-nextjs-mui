@@ -610,7 +610,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:*, @types/react@npm:18.0.33":
+"@types/react@npm:*":
   version: 18.0.33
   resolution: "@types/react@npm:18.0.33"
   dependencies:
@@ -618,6 +618,17 @@ __metadata:
     "@types/scheduler": "*"
     csstype: ^3.0.2
   checksum: 12610df107eeac48d63f23c64b9c2f91acf6413faa9868e374433b1bab7a27ce95b0a0198b0712da34e2a1672ce43e04fa0b484e81e985baae3b056e204e27ac
+  languageName: node
+  linkType: hard
+
+"@types/react@npm:18.0.34":
+  version: 18.0.34
+  resolution: "@types/react@npm:18.0.34"
+  dependencies:
+    "@types/prop-types": "*"
+    "@types/scheduler": "*"
+    csstype: ^3.0.2
+  checksum: 97e6ea3b5eea0b270c2c36f5cc44699fe21e30ceda4ffc6936ad40ff755bd8b16637f41d8b0bd20d50eb3261b0981e8f4822b2bd5805208532292499f6de340c
   languageName: node
   linkType: hard
 
@@ -1340,7 +1351,7 @@ __metadata:
     "@mui/styles": ^5.11.12
     "@types/eslint": 8.37.0
     "@types/node": 18.15.11
-    "@types/react": 18.0.33
+    "@types/react": 18.0.34
     "@types/react-dom": 18.0.11
     "@types/react-syntax-highlighter": 15.5.6
     axios: ^1.3.4
