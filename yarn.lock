@@ -592,12 +592,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-syntax-highlighter@npm:15.5.6":
-  version: 15.5.6
-  resolution: "@types/react-syntax-highlighter@npm:15.5.6"
+"@types/react-syntax-highlighter@npm:15.5.7":
+  version: 15.5.7
+  resolution: "@types/react-syntax-highlighter@npm:15.5.7"
   dependencies:
     "@types/react": "*"
-  checksum: 982e2820038fa792012960a63f438a1ae8fa46d0edc3aad0488f7c8e49f15ad4118ce3c8cbf2dbbe141674e6a797f5f858c8efa5dfdbbb5621e6ecdb5f048627
+  checksum: e5e871b6431fa33f19a0d5050f05f333bf7c72589f624e08da6deae536f3da5b9f93201a4123dcddc808aee0f7a3b6f479290f1671f5859cf23a62e94e338193
   languageName: node
   linkType: hard
 
@@ -1354,7 +1354,7 @@ __metadata:
     "@types/node": 18.16.14
     "@types/react": 18.2.7
     "@types/react-dom": 18.2.4
-    "@types/react-syntax-highlighter": 15.5.6
+    "@types/react-syntax-highlighter": 15.5.7
     axios: ^1.3.4
     clsx: ^1.2.1
     next: ^13.2.3
