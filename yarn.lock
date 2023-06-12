@@ -621,14 +621,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:18.2.9":
-  version: 18.2.9
-  resolution: "@types/react@npm:18.2.9"
+"@types/react@npm:18.2.10":
+  version: 18.2.10
+  resolution: "@types/react@npm:18.2.10"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 5935a8cb8efc2804dbb0f85989970f654fb4117274b6d2836baa58d5e9dbfc09fd9d60e1f23a8d0fca70ad75e9f0e074790947899be40525cbe62f7ac58adcc6
+  checksum: a449ef20213fd29d5e6d0d2237ae086cb61270ffd84cd14daf270a9e0d3a3373c6f73bf4a4172fd495e07ede38b0f6a3cd60a0f89c2774032f7a3ff65991bb1b
   languageName: node
   linkType: hard
 
@@ -1349,7 +1349,7 @@ __metadata:
     "@mui/styles": ^5.11.12
     "@types/eslint": 8.40.1
     "@types/node": 18.16.17
-    "@types/react": 18.2.9
+    "@types/react": 18.2.10
     "@types/react-dom": 18.2.4
     "@types/react-syntax-highlighter": 15.5.7
     axios: ^1.3.4
