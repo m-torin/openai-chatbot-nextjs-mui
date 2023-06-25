@@ -24,7 +24,7 @@
   "devDependencies": {
     "@types/eslint": "8.40.2",
     "@types/node": "18.16.18",
-    "@types/react": "18.2.13",
+    "@types/react": "18.2.14",
     "@types/react-dom": "18.2.6",
     "@types/react-syntax-highlighter": "15.5.7",
     "turbo": "1.10.5",
